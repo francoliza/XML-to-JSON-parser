@@ -1,0 +1,1933 @@
+[
+    {
+        "SeatID": "7A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "7B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "7C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "7D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "7E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "7F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "11A",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "11B",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "11C",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "11D",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "11E",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "11F",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "12A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "12B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "12C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "12D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "12E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "12F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "13F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "35.40",
+        "ServiceID": "SV2",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+            "EXIT",
+            "LEG_SPACE_SEAT"
+        ]
+    },
+    {
+        "SeatID": "14A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "14B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "14C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "14D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "14E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "14F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "15A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "15B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "15C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "15D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "15E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "15F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "8A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "8B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "8C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "8D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "8E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "8F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "9A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+        ]
+    },
+    {
+        "SeatID": "9B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "9C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "9D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "9E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "9F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+        ]
+    },
+    {
+        "SeatID": "10A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "10B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "10C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "10D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "10E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "10F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "22.10",
+        "ServiceID": "SV1",
+        "Description": [
+            "SEAT_IN_A_QUIET_ZONE",
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "22A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "22B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "22C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "22D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "22E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "22F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "23A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "23B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "23C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "23D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "23E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "23F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "16A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "16B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "16C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "16D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "16E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "16F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "17A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "17B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "17C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "17D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "17E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "17F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "18A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "18B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "18C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "18D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "18E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "18F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "WING"
+        ]
+    },
+    {
+        "SeatID": "19A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "19B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "19C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "19D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "19E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "19F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "20A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "20B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "20C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "20D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "20E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "20F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "21A",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "OCCUPIED"
+        ]
+    },
+    {
+        "SeatID": "21B",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT",
+            "OCCUPIED"
+        ]
+    },
+    {
+        "SeatID": "21C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "21D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "21E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "21F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "24A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE"
+        ]
+    },
+    {
+        "SeatID": "24B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "24C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "24D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "24E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "24F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "25A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+        ]
+    },
+    {
+        "SeatID": "25B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "25C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD"
+        ]
+    },
+    {
+        "SeatID": "25D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT"
+        ]
+    },
+    {
+        "SeatID": "25E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "PREFERENTIAL_SEAT"
+        ]
+    },
+    {
+        "SeatID": "25F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "17.70",
+        "ServiceID": "SV3",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+            "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+        ]
+    },
+    {
+        "SeatID": "26A",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "26B",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "PREFERENTIAL_SEAT",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "26C",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "26D",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "26E",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "PREFERENTIAL_SEAT",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "26F",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+        ]
+    },
+    {
+        "SeatID": "27A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "27B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "27C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "27D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "27E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "27F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "28F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29A",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29B",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29C",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29D",
+        "Position": "AISLE",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29E",
+        "Position": null,
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "29F",
+        "Position": "WINDOW",
+        "CurrencyCode": "GBP",
+        "Price": "11.50",
+        "ServiceID": "SV4",
+        "Description": [
+            "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+            "WINDOW",
+            "AVAILABLE",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30A",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30B",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30C",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AVAILABLE",
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "SEAT_NOT_ALLOWED_FOR_INFANT",
+            "RESTRICTED_RECLINE_SEAT",
+            "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+            "RESTRICTED_SEAT_GENERAL",
+            "RESTRICTED",
+            "REAR_FACING_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30D",
+        "Position": "AISLE",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "AISLE_SEAT",
+            "SEAT_NOT_SUITABLE_FOR_CHILD",
+            "RESTRICTED_RECLINE_SEAT",
+            "OCCUPIED",
+            "REAR_FACING_SEAT",
+            "CREW_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30E",
+        "Position": null,
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "RESTRICTED_RECLINE_SEAT",
+            "OCCUPIED",
+            "REAR_FACING_SEAT",
+            "CREW_SEAT"
+        ]
+    },
+    {
+        "SeatID": "30F",
+        "Position": "WINDOW",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "ServiceID": "No data",
+        "Description": [
+            "WINDOW",
+            "RESTRICTED_RECLINE_SEAT",
+            "OCCUPIED",
+            "REAR_FACING_SEAT",
+            "CREW_SEAT"
+        ]
+    }
+]

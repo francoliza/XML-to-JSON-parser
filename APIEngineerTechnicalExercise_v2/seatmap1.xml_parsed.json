@@ -1,0 +1,1362 @@
+[
+    {
+        "SeatID": "1A",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "1B",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "1E",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "1F",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "2A",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "2B",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "2E",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "2F",
+        "Availability": "false",
+        "CabinClass": "First",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "7A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "7B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "7C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "7D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "7E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "7F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "8A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "8B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "8C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "8D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "8E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "8F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "9A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "9B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "9C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "9D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "9E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "9F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "10A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "10B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "10C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "10D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "10E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "10F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "11A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "11B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "11C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "11D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "11E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "11F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "12A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "12B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "12C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "12D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "12E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "12F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2600",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2600",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "14F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2600",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2600",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "15F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "20A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "20B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "20C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "20D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "20E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "20F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "21A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "21B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "21C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "21D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "21E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "21F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    },
+    {
+        "SeatID": "22A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "22B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "22C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "22D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "22E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "22F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "23F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "24F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "25F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "4200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "26F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "2700",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27B",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "27F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "28F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "29F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "30F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "31F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "32F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "34F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "35F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "36F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "37F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38A",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38C",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38D",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1800",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38E",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "38F",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1300",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "39A",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "39B",
+        "Availability": "true",
+        "CabinClass": "Economy",
+        "CurrencyCode": "USD",
+        "Price": "1200",
+        "Features": "Other_"
+    },
+    {
+        "SeatID": "39C",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "39D",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Aisle"
+    },
+    {
+        "SeatID": "39E",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Center"
+    },
+    {
+        "SeatID": "39F",
+        "Availability": "false",
+        "CabinClass": "Economy",
+        "CurrencyCode": "No data",
+        "Price": "No data",
+        "Features": "Window"
+    }
+]
